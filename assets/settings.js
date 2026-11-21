@@ -11,5 +11,5 @@ window.SETTINGS = {
   reelUrl: "",
 
   // Shared link to the CV (Claude Doc exported to PDF, or the PDF itself in site/media/).
-  cvUrl: ""
+  cvUrl: "media/cv.pdf"
 };
